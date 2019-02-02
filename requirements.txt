@@ -11,5 +11,5 @@ scikit-learn==0.20.2
 scipy==1.2.0
 sklearn==0.0
 tensorflow==1.12.0
-urllib3==1.22
+urllib3==1.23
 utils==0.9.0
